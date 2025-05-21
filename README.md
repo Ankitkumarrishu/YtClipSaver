@@ -14,7 +14,7 @@ Select Download ZIP and extract the contents.
 
 Alternatively, use Git to clone the repository:
 
-git clone https://github.com/Dilraj1602/Dilraj1602-YTClipSaver.git
+git clone https://github.com/Ankitkumarrishu/YtClipSaver
 
 🔹 Step 2: Open Chrome Extensions Page
 
@@ -45,4 +45,4 @@ Click on the extension icon in the toolbar and start managing your bookmarks eff
 We welcome contributions! Feel free to fork this repository and submit pull requests. 💡
 
 
-💻 Made with ❤️ by [Dil Raj]
+💻 Made with ❤️ by [Ankit Kumar]
